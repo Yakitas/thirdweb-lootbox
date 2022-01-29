@@ -2,12 +2,12 @@ export default function Footer() {
   return (
     <footer className="mx-auto mt-48 text-center">
       <a
-        href="https://www.pointer.gg?utm_source=thirdweb-lootbox"
+        href="https://www.kattplatform-dv.ml/"
         target="_blank"
         rel="noopener noreferrer"
       >
-        Learn web3 dev and earn crypto rewards at{" "}
-        <span className="underline">Pointer</span>
+        Learn about the "grote wiem" at{" "}
+        <span className="underline">Kattt</span>
       </a>
     </footer>
   );

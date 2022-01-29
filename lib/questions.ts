@@ -34,11 +34,13 @@ const quizQuestions: Question[] = [
   {
     questionText:
       "Which was the first James Bond film to include an Aston Martin?",
+    image: "https://images.unsplash.com/photo-1610375461246-83df859d849d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
     answers: ["Dr No", "From Russia with Love", "Goldfinger", "Thunderball"],
     correctAnswerIndex: 2,
   },
   {
     questionText: "What color were all Ferraris originally?",
+    image: "https://images.unsplash.com/photo-1554223090-7e482851df45?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=803&q=80",
     answers: ["Yellow", "White", "Blue", "Red"],
     correctAnswerIndex: 3,
   },
